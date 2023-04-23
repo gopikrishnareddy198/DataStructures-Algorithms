@@ -1,6 +1,16 @@
 
 import java.util.*;
+/* 
+   Given an array {1,2,3,4,5,6,7,8} and k=3
+   So we have to shift first 3 elements to the right
+   Here is how the array looks after we shift first 3 elements 
+   {4,5,6,7,8,1,2,3}
 
+   element = 2;
+
+   We have to search for this element after shifting
+   
+*/
 
 class Shift_K_Elements_To_Right_And_SearchForItem{
 
